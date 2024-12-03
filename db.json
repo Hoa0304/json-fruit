@@ -3,7 +3,7 @@
     {
       "id": "296e",
       "name": "Coconut",
-      "imageUrl": "http://localhost:8081/images/coconut.png",
+      "imageUrl": "https://github.com/Hoa0304/json-fruit/blob/main/images/coconut.png?raw=true",
       "cost": "$3.99",
       "color": "6A7324",
       "quantity": 5
@@ -11,7 +11,7 @@
     {
       "id": "ba2e",
       "name": "Peach",
-      "imageUrl": "http://localhost:8081/images/peach.png",
+      "imageUrl": "https://github.com/Hoa0304/json-fruit/blob/main/images/peach.png?raw=true",
       "cost": "$1.5",
       "color": "6A7324",
       "quantity": 4
@@ -19,14 +19,14 @@
     {
       "id": "3f48",
       "name": "Watermelon",
-      "imageUrl": "http://localhost:8081/images/watermelon.png",
+      "imageUrl": "https://github.com/Hoa0304/json-fruit/blob/main/images/watermelon.png?raw=true",
       "cost": "$4.99",
       "quantity": 1
     },
     {
       "id": "e8bf",
       "name": "Kiwi",
-      "imageUrl": "http://localhost:8081/images/kiwi.png",
+      "imageUrl": "https://github.com/Hoa0304/json-fruit/blob/main/images/kiwi.png?raw=true",
       "cost": "$2.99",
       "quantity": 1
     }
@@ -35,62 +35,62 @@
     {
       "id": "1",
       "name": "Kiwi",
-      "imageUrl": "http://localhost:8081/images/kiwi.png",
+      "imageUrl": "https://github.com/Hoa0304/json-fruit/blob/main/images/kiwi.png?raw=true",
       "cost": "$2.99"
     },
     {
       "id": "2",
       "name": "Coconut",
-      "imageUrl": "http://localhost:8081/images/coconut.png",
+      "imageUrl": "https://github.com/Hoa0304/json-fruit/blob/main/images/coconut.png?raw=true",
       "cost": "$3.99"
     },
     {
       "id": "3",
       "name": "Peach",
-      "imageUrl": "http://localhost:8081/images/peach.png",
+      "imageUrl": "https://github.com/Hoa0304/json-fruit/blob/main/images/peach.png?raw=true",
       "cost": "$1.5"
     },
     {
       "id": "4",
       "name": "Grapes",
-      "imageUrl": "http://localhost:8081/images/grapes.png",
+      "imageUrl": "https://github.com/Hoa0304/json-fruit/blob/main/images/grapes.png?raw=true",
       "cost": "$0.99"
     },
     {
       "id": "5",
       "name": "Watermelon",
-      "imageUrl": "http://localhost:8081/images/watermelon.png",
+      "imageUrl": "https://github.com/Hoa0304/json-fruit/blob/main/images/watermelon.png?raw=true",
       "cost": "$4.99"
     },
     {
       "id": "6",
       "name": "Orange",
-      "imageUrl": "http://localhost:8081/images/orange.png",
+      "imageUrl": "https://github.com/Hoa0304/json-fruit/blob/main/images/orange.png?raw=true",
       "cost": "$2.99"
     },
     {
       "id": "7",
       "name": "StrawBerry",
-      "imageUrl": "http://localhost:8081/images/strawberry.png",
+      "imageUrl": "https://github.com/Hoa0304/json-fruit/blob/main/images/strawberry.png?raw=true",
       "cost": "$0.99"
     },
     {
       "id": "8",
       "name": "Mango",
-      "imageUrl": "http://localhost:8081/images/mango.png",
+      "imageUrl": "https://github.com/Hoa0304/json-fruit/blob/main/images/mango.png?raw=true",
       "cost": "$0.99"
     },
     {
       "id": "9",
       "name": "Cherry",
-      "imageUrl": "http://localhost:8081/images/cherry.png",
+      "imageUrl": "https://github.com/Hoa0304/json-fruit/blob/main/images/cherry.png?raw=true",
       "cost": "$0.99"
     },
     {
       "id": "10",
       "name": "Banana",
       "imageUrl": "http://localhost:8081/images/banana.png",
-      "cost": "$20000"
+      "cost": "$0.89"
     }
   ],
   "users": [
