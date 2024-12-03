@@ -89,7 +89,7 @@
     {
       "id": "10",
       "name": "Banana",
-      "imageUrl": "http://localhost:8081/images/banana.png",
+      "imageUrl": "https://github.com/Hoa0304/json-fruit/blob/main/images/banana.png?raw=true",
       "cost": "$0.89"
     }
   ],
